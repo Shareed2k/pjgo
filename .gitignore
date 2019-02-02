@@ -1,0 +1,8 @@
+*.old
+/old
+.vscode
+/pjsua2/pjsua2.go
+/pjsua2/pjsua2_wrap.cxx
+/pjsua2/pjsua2_wrap.h
+pjgo
+.idea
